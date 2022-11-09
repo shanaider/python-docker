@@ -15,3 +15,5 @@ cd /path/to/python-docker
 source .venv/bin/activate
 (.venv) $ python3 -m flask run
 ```
+
+ref. https://docs.docker.com/language/python/build-images/
